@@ -1,4 +1,4 @@
-# MY VISUAL STUDIO CODE SET UP
+# Visual Studio Code Setup
 
 - [Extensions](extension.md) - List of essential extensions 
 - [Themes](theme.md) - Selection of themes I prefer for different occasions
