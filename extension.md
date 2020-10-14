@@ -5,5 +5,8 @@
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer-2)
 - [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors)
 - [Git](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
+
+
 ___
 [Back to contents](README.md)
