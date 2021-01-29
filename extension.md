@@ -6,6 +6,7 @@
 - [Comment Anchors](https://marketplace.visualstudio.com/items?itemName=ExodiusStudios.comment-anchors)
 - [Git](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Jumpy](https://marketplace.visualstudio.com/items?itemName=wmaurer.vscode-jumpy)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 
 ___
